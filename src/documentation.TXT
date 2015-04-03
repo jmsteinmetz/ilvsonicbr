@@ -1,0 +1,60 @@
+*****************************
+
+LOVEFOOD & COTTAGE PSD TEMPLATE
+
+*****************************
+
+
+Author: Peter Kincel, Kincel.sk
+
+-----------------------------
+
+Description:
+
+Lovefood & Cottage theme is clean restaurant and accommodation PSD template 
+with homepage based on 12 column 960px. Template can be used for restaurants, food delivery, accommodation, hotels, or blog.
+
+-----------------------------
+
+Template Advantages:
+
+- 10 layered PSD files
+- Clean, modern and nice design
+- Green and red version
+- Homepage based on 960px wide (12 columns 960.gs grid)
+
+
+-----------------------------
+
+Credits and Sources:
+
+- Icons by wpzoom: http://www.wpzoom.com/wpzoom/new-freebie-wpzoom-developer-icon-set-154-free-icons/
+- Images by http://www.istockphoto.com and http://www.sxc.hu
+
+- Graphic icons on Contact page: 
+         http://findicons.com/icon/44660/contacts?id=287292
+         http://findicons.com/icon/85392/mail
+         http://findicons.com/icon/31487/hp_ipaq_211?id=379691
+
+- Some used pictures from http://www.sxc.hu
+         http://www.sxc.hu/photo/696468
+         http://www.sxc.hu/photo/920260
+         http://www.sxc.hu/photo/944806
+         http://www.sxc.hu/photo/1431191
+
+- Wood textures: 
+
+        http://ftourini-stock.deviantart.com/art/tileable-wood-texture-90119307
+        http://www.sxc.hu/photo/1382764/?forcedownload=1
+
+-----------------------------
+
+Fonts:
+
+- Arial
+- Georgia 
+- Oswald: http://www.google.com/webfonts/specimen/Oswald
+- Loobster: http://www.google.com/fonts/specimen/Lobster
+- Ubuntu: http://www.google.com/fonts/specimen/Ubuntu
+
+
